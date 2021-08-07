@@ -1,0 +1,20 @@
+{
+    "name": "defender-game",
+    "version": "1.0.0",
+    "description": "Browser based game",
+    "main": "index.js",
+    "scripts": {
+        "test": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GromakMaxim/js-npm-workspace.git"
+    },
+    "keywords": ["game"],
+    "author": "Gromak Maxim",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GromakMaxim/js-npm-workspace/issues"
+    },
+    "homepage": "https://github.com/GromakMaxim/js-npm-workspace#readme"
+}
